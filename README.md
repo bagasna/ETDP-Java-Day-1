@@ -3,7 +3,9 @@ Pelatihan Java Day 1
 
 
 
-Membuat Fungsi Menu  menggunakan Input Scanner Java :
-- Baca
-- Ubah
-- Hapus
+Membuat Program sederhana menggunakan Input Scanner Java dengan fitur :
+- Baca data dari ArrayList
+- Simpan data ke Array List
+- Ubah Data
+- Hapus Data
+- Keluar
